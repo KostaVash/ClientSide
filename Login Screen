@@ -3,7 +3,6 @@ import java.awt.*;
 import java.awt.event.*;
 import java.util.Arrays;
 
-/* PasswordDemo.java requires no other files. */
 
 public class PasswordDemo extends JPanel implements ActionListener {
 	private static String OK = "ok";
